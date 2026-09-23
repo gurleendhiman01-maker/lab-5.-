@@ -1,1 +1,1 @@
-# lab-5.-
+# lab-5.-Compares AI-generated aviation images using different tools and prompt instructions. The work focuses on prompt accuracy, realism, lighting direction, airport background, appearance consistency, and camera-left versus camera-right instructions while observing differences between generated visuals.
